@@ -1,0 +1,107 @@
+    1  sudo nano /private/etc/hosts
+    2  sudo nano /private/etc/hosts
+    3  sudo nano /private/etc/hosts
+    4  sudo nano /private/etc/hosts
+    5  sudo cp ~/Desktop/com.lsreset.plist /Library/LaunchDaemons
+    6  sudo launchctl load -w /Library/LaunchDaemons/com.lsreset.plist
+    7  echo $Shell
+    8  echo $SHELL
+    9  pwd
+   10  ls
+   11  ls -etc
+   12  ls -l /etc
+   13  man ls
+   14  man ls -alh
+   15  man -alh
+   16  man alh
+   17  man ls
+   18  ls
+   19  @bash
+   20  bash
+   21  ls -alh
+   22  man ls -alh
+   23  man ls
+   24  bash
+   25  man lh
+   26  bash
+   27  man ls
+   28  bash
+   29  man ls
+   30  ls
+   31  pwd
+   32  cd /
+   33  pwd
+   34  ls
+   35  ls -t
+   36  ls -l
+   37  ls -h
+   38  man ls
+   39  ls -w
+   40  ls -R
+   41  clear
+   42  pwd
+   43  ls
+   44  cd Users/user
+   45  pwd
+   46  ls
+   47  cd /
+   48  ls
+   49  cd Users/user
+   50  ls -l
+   51  bash
+   52  /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl ; exit;
+   53  ls
+   54  cd Music/
+   55  pwd
+   56  cd
+   57  pwd
+   58  ls /
+   59  ls
+   60  ls / -l
+   61  ls -l /
+   62  ls .
+   63  ls /.
+   64  ls ./
+   65  history
+   66  man history
+   67  history | less
+   68  history -times
+   69  man history
+   70  history | times
+   71  subl moving_around.txrt
+   72  subl moving_around.txt
+   73  subl
+   74  cd
+   75  pwd
+   76  mkdir uge_workshop
+   77  ls -l
+   78  which subl
+   79  ls
+   80  cd Applications
+   81  ls
+   82  ls -a 
+   83  ls /Applications/
+   84  ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+   85  ls
+   86  cd 
+   87  ls
+   88  cd applications
+   89  ls
+   90  cd Applications
+   91  ls
+   92  ls -l
+   93  pwd
+   94  ls
+   95  cd ls
+   96  ls
+   97  cd /
+   98  ls
+   99  cd applications
+  100  ls
+  101  open /applications/sublime\ text\ 2.app/contents/sharedsupport/bin/subl
+  102  subl moving_around.txt
+  103  bash
+  104  subl movingaround.txt
+  105  pwd
+  106  ls
+  107  history > moving_around.txt
