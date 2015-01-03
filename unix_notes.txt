@@ -1,3 +1,5 @@
+    hidden files and folders begin w a dot (.)
+
     1  sudo nano /private/etc/hosts
     2  sudo nano /private/etc/hosts
     3  sudo nano /private/etc/hosts
