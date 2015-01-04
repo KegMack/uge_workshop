@@ -1,0 +1,4 @@
+commands:
+git branch   (status of branches)
+git branch name_of_branch (create branch)
+git checkout name_of_branch (go to branch)
